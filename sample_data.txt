@@ -1,0 +1,52 @@
+[
+  {
+    "sender": "john.doe@example.com",
+    "subject": "Issue with my recent order",
+    "body": "Hi, I placed an order last week, but I haven't received any tracking information. Can you please update me on the status?"
+  },
+  {
+    "sender": "sarah.connor@example.com",
+    "subject": "Job Inquiry - Software Engineer Position",
+    "body": "Dear Hiring Manager, I recently came across your job posting for a Software Engineer role and I'm very interested. Could you share more details on the application process?"
+  },
+  {
+    "sender": "mark.adams@example.com",
+    "subject": "Exclusive Offer: Limited Time Discount!",
+    "body": "Get 50% off on all our products for the next 24 hours! Hurry, this deal won't last. Click here to claim your discount."
+  },
+  {
+    "sender": "jessica.smith@example.com",
+    "subject": "Complaint: Poor Customer Service Experience",
+    "body": "I recently had a very disappointing experience with your support team. They were unhelpful and did not resolve my issue. I would like to escalate this matter."
+  },
+  {
+    "sender": "david.wilson@example.com",
+    "subject": "Meeting Request for Project Discussion",
+    "body": "Hey, I’d like to set up a meeting this Thursday to go over the new project details. Let me know what time works for you."
+  },
+  {
+    "sender": "noreply@randommarketing.com",
+    "subject": "Congratulations! You’ve won a free iPhone!",
+    "body": "Click the link below to claim your brand-new iPhone 15 Pro. Limited availability, act now!"
+  },
+  {
+    "sender": "emma.brown@example.com",
+    "subject": "Request for Refund",
+    "body": "Hello, I ordered a product from your store, but it arrived damaged. I would like to request a refund or a replacement. Please let me know the process."
+  },
+  {
+    "sender": "alex.jones@example.com",
+    "subject": "Technical Issue with Your Website",
+    "body": "Hi, I'm trying to access my account on your website, but I'm facing login issues. Could you assist me with this?"
+  },
+  {
+    "sender": "linda.martin@example.com",
+    "subject": "Urgent: Account Hacked",
+    "body": "My account appears to have been hacked, and I can’t access it. Please help me secure it immediately!"
+  },
+  {
+    "sender": "tom.harrison@example.com",
+    "subject": "Feedback on Your New Feature",
+    "body": "I just tried your new feature, and I must say, it's impressive! However, I have some suggestions for improvement. Would you be open to feedback?"
+  }
+]
