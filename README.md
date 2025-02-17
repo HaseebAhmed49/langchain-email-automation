@@ -13,6 +13,8 @@ A two-tier application featuring:
 - **Frontend**: Streamlit web interface for email processing
 - **AI Features**: Email categorization, response generation, urgency detection
 
+![Screenshot 2025-02-17 at 12 00 54 PM](https://github.com/user-attachments/assets/8861d1bd-426c-4554-a839-948dabec564b)
+
 ## 🗂️ Project Structure
 
 ```sh
